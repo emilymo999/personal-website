@@ -1,9 +1,24 @@
 img {
-    width: 200px;
+    width: 150px;
+    height: 150px;
+    border-radius: 59%;
 }
+
 body{
-    text-align: center;
-    font-family: 'Arial';
-    background: oldlace;
-    color: orange;
+    text-align: left;
+    background: white;
+    color: Black;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 750px;
+    margin-left: 750px;
+    h1 {
+        
+        font-family: 'Arial';
+        font-size: 60px;
+    }
+    p {
+        font-family: 'Georgia';
+        font-size: 25px;
+    }
 }
